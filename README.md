@@ -33,11 +33,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Card de visita, apenas para estudo de alinhamento e posições
 
-- [Acesse o projeto finalizado, online](https://malcarale.github.io/Projeto-Moveis-Ambientes/)
+- [Acesse o projeto finalizado, online](https://malcarale.github.io/Flutuar/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/20NWvMkUKzSEK2Yb58okVT). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/v6KeZjoR9HrEPWVmXSqwvD). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
